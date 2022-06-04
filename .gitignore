@@ -1,3 +1,2 @@
 *.log
-GitLogFolder/
-hello.xml.orig
+*.orig*.orig
